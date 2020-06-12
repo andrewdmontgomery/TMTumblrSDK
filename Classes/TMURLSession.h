@@ -6,12 +6,12 @@
 //  Copyright (c) 2015 Tumblr. All rights reserved.
 //
 
-#import "TMAPIApplicationCredentials.h"
-#import "TMAPIUserCredentials.h"
-#import "TMNetworkActivityVisiblityCounter.h"
-#import "TMSessionTaskUpdateDelegate.h"
-#import "TMURLSessionCallbacks.h"
-#import "TMSession.h"
+#import <TMTumblrSDK/TMAPIApplicationCredentials.h>
+#import <TMTumblrSDK/TMAPIUserCredentials.h>
+#import <TMTumblrSDK/TMNetworkActivityVisiblityCounter.h>
+#import <TMTumblrSDK/TMSessionTaskUpdateDelegate.h>
+#import <TMTumblrSDK/TMURLSessionCallbacks.h>
+#import <TMTumblrSDK/TMSession.h>
 
 @class TMAPIApplicationCredentials;
 @class TMAPIUserCredentials;

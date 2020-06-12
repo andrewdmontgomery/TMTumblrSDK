@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "TMURLSessionTaskObserver.h"
+#import <TMTumblrSDK/TMURLSessionTaskObserver.h>
 
 /**
  *  Responsible for converting a stream of @c NSURLSessionTaskState into @c TMURLSessionState

@@ -7,8 +7,8 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "TMNetworkActivityIndicatorManager.h"
-#import "TMURLSessionTaskState.h"
+#import <TMTumblrSDK/TMNetworkActivityIndicatorManager.h>
+#import <TMTumblrSDK/TMURLSessionTaskState.h>
 
 /**
  * An object that can calculate whether or not the network activity indicator should be shown.

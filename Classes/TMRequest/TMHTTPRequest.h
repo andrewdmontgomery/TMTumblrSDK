@@ -7,8 +7,8 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "TMHTTPRequestMethod.h"
-#import "TMRequest.h"
+#import <TMTumblrSDK/TMHTTPRequestMethod.h>
+#import <TMTumblrSDK/TMRequest.h>
 
 /**
  * A model of an HTTP request.

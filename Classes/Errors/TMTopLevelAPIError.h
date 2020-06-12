@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "TMAPIError.h"
+#import <TMTumblrSDK/TMAPIError.h>
 
 /**
  * Model representing the errors in the top level of an API response.

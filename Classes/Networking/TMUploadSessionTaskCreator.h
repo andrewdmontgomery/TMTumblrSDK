@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "TMURLSessionCallbacks.h"
+#import <TMTumblrSDK/TMURLSessionCallbacks.h>
 
 /**
  * Creates an upload task.

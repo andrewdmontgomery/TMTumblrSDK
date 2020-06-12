@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "TMAPIError.h"
+#import <TMTumblrSDK/TMAPIError.h>
 
 /**
  * A factory class that can determine which kind of @c TMAPIError we need to provide to clients.

@@ -7,7 +7,7 @@
 //
 
 @import Foundation;
-#import "TMAuthenticationCallback.h"
+#import <TMTumblrSDK/TMAuthenticationCallback.h>
 
 @protocol TMSession;
 

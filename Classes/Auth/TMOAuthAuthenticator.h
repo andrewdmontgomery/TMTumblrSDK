@@ -7,9 +7,9 @@
 //
 
 @import Foundation;
-#import "TMAPIApplicationCredentials.h"
-#import "TMAuthenticationCallback.h"
-#import "TMOAuthAuthenticatorDelegate.h"
+#import <TMTumblrSDK/TMAPIApplicationCredentials.h>
+#import <TMTumblrSDK/TMAuthenticationCallback.h>
+#import <TMTumblrSDK/TMOAuthAuthenticatorDelegate.h>
 @protocol TMSession;
 
 /**

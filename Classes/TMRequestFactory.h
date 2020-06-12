@@ -14,7 +14,7 @@
 @protocol TMRequestBody;
 @protocol TMBaseURLDetermining;
 
-#import "TMHTTPRequestMethod.h"
+#import <TMTumblrSDK/TMHTTPRequestMethod.h>
 
 /**
  Produces network requests.

@@ -7,8 +7,8 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "TMURLSession.h"
-#import "TMRequestFactory.h"
+#import <TMTumblrSDK/TMURLSession.h>
+#import <TMTumblrSDK/TMRequestFactory.h>
 
 typedef void (^TMAPIClientCallback)(NSDictionary * _Nullable response, NSError * _Nullable error);
 

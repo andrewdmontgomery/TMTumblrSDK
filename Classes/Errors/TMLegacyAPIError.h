@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "TMAPIError.h"
+#import <TMTumblrSDK/TMAPIError.h>
 
 /**
  * An error that represents an errors key that appears in the "response" dictionary instead of the correct place (top level).

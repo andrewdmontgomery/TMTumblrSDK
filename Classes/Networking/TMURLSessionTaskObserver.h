@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "TMURLSessionTaskState.h"
+#import <TMTumblrSDK/TMURLSessionTaskState.h>
 
 /**
  *  A block for when the state of a task is updated.

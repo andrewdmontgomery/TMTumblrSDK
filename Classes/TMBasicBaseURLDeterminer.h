@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "TMBaseURLDetermining.h"
+#import <TMTumblrSDK/TMBaseURLDetermining.h>
 
 /**
  Provides the default base URL for making API requests

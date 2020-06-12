@@ -6,7 +6,7 @@
 //
 //
 
-#import "TMHTTPRequestMethod.h"
+#import <TMTumblrSDK/TMHTTPRequestMethod.h>
 
 @protocol TMRequestBody;
 

@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "TMURLConcreteSessionTaskDelegateContainer.h"
+#import <TMTumblrSDK/TMURLConcreteSessionTaskDelegateContainer.h>
 
 @protocol TMURLSessionMetricsDelegate;
 

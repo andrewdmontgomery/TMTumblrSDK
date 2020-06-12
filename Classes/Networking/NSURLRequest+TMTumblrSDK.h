@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "TMHTTPRequestMethod.h"
+#import <TMTumblrSDK/TMHTTPRequestMethod.h>
 
 /**
  *  A category on NSURLRequest to add extra functionality for the SDK.

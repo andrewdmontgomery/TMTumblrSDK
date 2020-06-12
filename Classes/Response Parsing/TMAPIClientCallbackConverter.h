@@ -7,8 +7,8 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "TMURLSession.h"
-#import "TMAPIClient.h"
+#import <TMTumblrSDK/TMURLSession.h>
+#import <TMTumblrSDK/TMAPIClient.h>
 
 /**
  * Responsible for converting @c TMAPIClientCallback to a @c TMURLSessionRequestCompletionHandler.

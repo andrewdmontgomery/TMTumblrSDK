@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "TMRequestBody.h"
+#import <TMTumblrSDK/TMRequestBody.h>
 
 /**
  * A request body that represents a query string.

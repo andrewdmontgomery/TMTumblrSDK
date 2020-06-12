@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "TMNetworkSpeedQuality.h"
+#import <TMTumblrSDK/TMNetworkSpeedQuality.h>
 
 @interface TMNetworkSpeedTracker : NSObject
 

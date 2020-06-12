@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "TMURLSessionCallbacks.h"
+#import <TMTumblrSDK/TMURLSessionCallbacks.h>
 
 /**
  *  Responsible for holding data for the concrete session deelgate can use.

@@ -7,8 +7,8 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "TMXAuthAuthenticator.h"
-#import "TMURLSessionCallbacks.h"
+#import <TMTumblrSDK/TMXAuthAuthenticator.h>
+#import <TMTumblrSDK/TMURLSessionCallbacks.h>
 
 /**
  * Processes a response for the Tumblr API authentication route.

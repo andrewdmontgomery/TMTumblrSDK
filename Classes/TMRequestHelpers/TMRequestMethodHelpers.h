@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "TMHTTPRequestMethod.h"
+#import <TMTumblrSDK/TMHTTPRequestMethod.h>
 
 __attribute__((objc_subclassing_restricted))
 @interface TMRequestMethodHelpers : NSObject

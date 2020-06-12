@@ -7,7 +7,7 @@
 //
 
 @import Foundation;
-#import "TMRequest.h"
+#import <TMTumblrSDK/TMRequest.h>
 
 @interface TMSDKFunctions : NSObject
 

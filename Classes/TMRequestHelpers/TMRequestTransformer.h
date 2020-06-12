@@ -5,7 +5,7 @@
 //  Created by Tyler Tape on 3/23/17.
 //
 //
-#import "TMRequest.h"
+#import <TMTumblrSDK/TMRequest.h>
 
 @protocol TMRequestTransformer
 
